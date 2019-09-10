@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.io/D-E-F-E-A-T/clone-repo-and-ready-made-log.svg)](http://hits.dwyl.io/D-E-F-E-A-T/clone-repo-and-ready-made-log)
+
+
 # clone-repo-and-ready-made-log   
 
 A simple application made using BASH( Shell-Scripting) which clones the repos whoes links are provided in txt file and also creates the log of that repo, all this with proper managment.
